@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 
 
 ## Author
-- [Shashi Salwathura](https://github.com/ShashiSal98)
+[Shashi Salwathura](https://github.com/ShashiSal98)
 
 Happy Coding! 🚀
 
