@@ -56,3 +56,10 @@ This is the backend for the **QuizNet** Exam Portal application, built with Java
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Author
+- [Shashi Salwathura](https://github.com/ShashiSal98)
+
+Happy Coding! 🚀
+
